@@ -66,6 +66,7 @@ footer {
   align-items: left;
   justify-content: left;
   font-size: 10px;
+  width: fit-content;
 }
 .box:hover {
   background-color: #a7c5d7;
